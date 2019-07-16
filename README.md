@@ -1,6 +1,5 @@
 # J2EE_hrm
-J2EE+Mybatis+Learning
-
+J2EE+Mybatis
 
 
 
