@@ -1,2 +1,2 @@
 # J2EE_hrm
-J2EE Mybatis Learning
+Java2EE Mybatis Learning
